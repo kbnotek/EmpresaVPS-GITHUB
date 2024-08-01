@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjetoVPS\\EmpresaVPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5DD2C4-F499-4708-84AC-7138D4852343}|EmpresaVPS\\EmpresaVPS.csproj|c:\\projetovps\\empresavps\\empresavps\\views\\shared\\_layoutgerencimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F5DD2C4-F499-4708-84AC-7138D4852343}|EmpresaVPS\\EmpresaVPS.csproj|solutionrelative:empresavps\\views\\shared\\_layoutgerencimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5DD2C4-F499-4708-84AC-7138D4852343}|EmpresaVPS\\EmpresaVPS.csproj|c:\\projetovps\\empresavps\\empresavps\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F5DD2C4-F499-4708-84AC-7138D4852343}|EmpresaVPS\\EmpresaVPS.csproj|solutionrelative:empresavps\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5DD2C4-F499-4708-84AC-7138D4852343}|EmpresaVPS\\EmpresaVPS.csproj|c:\\projetovps\\empresavps\\empresavps\\views\\agendamento\\gerenciamentouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F5DD2C4-F499-4708-84AC-7138D4852343}|EmpresaVPS\\EmpresaVPS.csproj|solutionrelative:empresavps\\views\\agendamento\\gerenciamentouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5DD2C4-F499-4708-84AC-7138D4852343}|EmpresaVPS\\EmpresaVPS.csproj|c:\\projetovps\\empresavps\\empresavps\\views\\agendamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F5DD2C4-F499-4708-84AC-7138D4852343}|EmpresaVPS\\EmpresaVPS.csproj|solutionrelative:empresavps\\views\\agendamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ProjetoVPS\\EmpresaVPS\\EmpresaVPS\\Views\\Agendamento\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmpresaVPS\\Views\\Agendamento\\Index.cshtml",
+              "ToolTip": "C:\\ProjetoVPS\\EmpresaVPS\\EmpresaVPS\\Views\\Agendamento\\Index.cshtml",
+              "RelativeToolTip": "EmpresaVPS\\Views\\Agendamento\\Index.cshtml",
+              "ViewState": "AQIAAB4BAAAAAAAAAAAiwDcBAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:37:07.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GerenciamentoUser.cshtml",
+              "DocumentMoniker": "C:\\ProjetoVPS\\EmpresaVPS\\EmpresaVPS\\Views\\Agendamento\\GerenciamentoUser.cshtml",
+              "RelativeDocumentMoniker": "EmpresaVPS\\Views\\Agendamento\\GerenciamentoUser.cshtml",
+              "ToolTip": "C:\\ProjetoVPS\\EmpresaVPS\\EmpresaVPS\\Views\\Agendamento\\GerenciamentoUser.cshtml",
+              "RelativeToolTip": "EmpresaVPS\\Views\\Agendamento\\GerenciamentoUser.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAgwFgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:35:42.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutGerencimento.cshtml",
+              "DocumentMoniker": "C:\\ProjetoVPS\\EmpresaVPS\\EmpresaVPS\\Views\\Shared\\_LayoutGerencimento.cshtml",
+              "RelativeDocumentMoniker": "EmpresaVPS\\Views\\Shared\\_LayoutGerencimento.cshtml",
+              "ToolTip": "C:\\ProjetoVPS\\EmpresaVPS\\EmpresaVPS\\Views\\Shared\\_LayoutGerencimento.cshtml",
+              "RelativeToolTip": "EmpresaVPS\\Views\\Shared\\_LayoutGerencimento.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:33:32.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ProjetoVPS\\EmpresaVPS\\EmpresaVPS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmpresaVPS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ProjetoVPS\\EmpresaVPS\\EmpresaVPS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmpresaVPS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T13:33:14.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
